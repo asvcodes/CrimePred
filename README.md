@@ -75,14 +75,11 @@ The dataset used is the **Communities and Crime** dataset from the UCI ML Reposi
 To run the analysis:
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/asvcodes/CrimePred
    ```
-2. Navigate to the project folder:
-   ```bash
-   cd crime-analysis
-   ```
-3. Ensure the `communitiesNcrime-USA.csv` file is in the `data/` folder.
-4. Open and execute the `Crime_Analysis.ipynb` notebook using Jupyter.
+2. Ensure the `communitiesNcrime-USA.csv` file is in the `data/` folder.
+3. Open and execute the `Crime_Analysis.ipynb` notebook using Jupyter.
+4. Explore
 
 Dependencies are listed in the `requirements.txt` file and can be installed with:
 ```bash
