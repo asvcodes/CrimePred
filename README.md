@@ -1,3 +1,5 @@
+![Future-Crime-Analysis](https://github.com/user-attachments/assets/bc22a55d-5aaf-4a46-bf53-6931fbfc06b5)
+
 # IBA Project: Crime Analysis & Prediction
 
 This repository contains an analysis of the UCI ML Repository's **Communities and Crime** dataset, performed as part of the **Introduction to Business Analytics** course (BMS). The project involves data cleaning, exploratory data analysis (EDA), and regression modeling to identify significant factors contributing to crime rates and predict crime rates for regions.
@@ -10,8 +12,7 @@ This repository contains an analysis of the UCI ML Repository's **Communities an
 3. [Analysis Steps](#analysis-steps)
 4. [Results](#results)
 5. [Usage](#usage)
-6. [Credits](#credits)
-
+   
 ---
 
 ## Overview
